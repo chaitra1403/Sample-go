@@ -1,6 +1,7 @@
 Problem Statement
 
-Set A 
+Set A: 
+
 A1. Given a list, find duplicates
   Example: userInput = [ 10, 20, 10, 10, 30, 20, 40, 50 ]
   Output = [ 10, 20 ]
@@ -9,7 +10,8 @@ A2. Using recursion, find/print prime numbers between 2 input numbers (in a rang
   Example: userInput = 10 and 23
   Output: 11, 13, 17, 19, 23
 
-Set B 
+Set B:
+
 B1. Start a RESTful server with simple end-points that use GET, POST
    a. using Python/Flask 
    b. using Golang
