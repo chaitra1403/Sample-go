@@ -1,0 +1,4 @@
+time="2022-08-29T21:24:27+05:30" level=debug msg="This is debug level: Hello everyone."
+time="2022-08-29T21:24:27+05:30" level=info msg="This is info level: Welcome to roost.ai!"
+time="2022-08-29T21:24:27+05:30" level=warning msg="This is warning level: Complete the assignment before tuesday"
+time="2022-08-29T21:24:27+05:30" level=error msg="This is error level: I dont know much about golang! but I'm not quitting."
